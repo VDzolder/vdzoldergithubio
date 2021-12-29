@@ -1770,44 +1770,44 @@ a {
 .cid-sMd0LKJtO2 .mbr-section-subtitle DIV {
   text-align: left;
 }
-.cid-sMcZbLxlKX {
+.cid-sT0ErtHFEW {
   padding-top: 0rem;
   padding-bottom: 0rem;
   background: #bbbbbb;
 }
-.cid-sMcZbLxlKX .team-card {
+.cid-sT0ErtHFEW .team-card {
   margin-bottom: 2rem;
   transition: all 0.3s;
 }
-.cid-sMcZbLxlKX .team-card:hover {
+.cid-sT0ErtHFEW .team-card:hover {
   transform: translateY(-10px);
 }
-.cid-sMcZbLxlKX .card-wrap {
-  background: #ffffff;
+.cid-sT0ErtHFEW .card-wrap {
+  background: #fafafa;
   border-radius: 4px;
 }
 @media (max-width: 991px) {
-  .cid-sMcZbLxlKX .card-wrap {
+  .cid-sT0ErtHFEW .card-wrap {
     margin-bottom: 2rem;
   }
 }
-.cid-sMcZbLxlKX .card-wrap .image-wrap img {
+.cid-sT0ErtHFEW .card-wrap .image-wrap img {
   width: 100%;
 }
 @media (min-width: 768px) {
-  .cid-sMcZbLxlKX .card-wrap .content-wrap {
+  .cid-sT0ErtHFEW .card-wrap .content-wrap {
     padding: 2rem;
   }
 }
 @media (max-width: 767px) {
-  .cid-sMcZbLxlKX .card-wrap .content-wrap {
+  .cid-sT0ErtHFEW .card-wrap .content-wrap {
     padding: 1rem;
   }
 }
-.cid-sMcZbLxlKX .social-row {
+.cid-sT0ErtHFEW .social-row {
   text-align: center;
 }
-.cid-sMcZbLxlKX .social-row .soc-item {
+.cid-sT0ErtHFEW .social-row .soc-item {
   display: inline-block;
   text-align: center;
   border-radius: 50%;
@@ -1817,7 +1817,7 @@ a {
   border: 2px solid #353535;
   transition: all 0.3s;
 }
-.cid-sMcZbLxlKX .social-row .soc-item .mbr-iconfont {
+.cid-sT0ErtHFEW .social-row .soc-item .mbr-iconfont {
   transition: all 0.3s;
   display: flex;
   justify-content: center;
@@ -1825,14 +1825,14 @@ a {
   color: #353535;
   font-size: 1.5rem;
 }
-.cid-sMcZbLxlKX .social-row .soc-item:hover {
+.cid-sT0ErtHFEW .social-row .soc-item:hover {
   background-color: #353535;
 }
-.cid-sMcZbLxlKX .social-row .soc-item:hover .mbr-iconfont {
+.cid-sT0ErtHFEW .social-row .soc-item:hover .mbr-iconfont {
   color: #ffffff;
 }
 .cid-sMd0j12xsU {
-  padding-top: 2rem;
+  padding-top: 1rem;
   padding-bottom: 0rem;
   background: #bbbbbb;
 }
