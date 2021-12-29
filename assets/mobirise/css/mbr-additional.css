@@ -5304,6 +5304,17 @@ a {
 .cid-sOyEtz8UQp .row {
   justify-content: center;
 }
+.cid-sSYIYffICo {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: #bbbbbb;
+}
+.cid-sSYIYffICo .line {
+  background-color: #000000;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
 .cid-sOyEtzE4Aw {
   padding-top: 2rem;
   padding-bottom: 3rem;
@@ -7574,6 +7585,17 @@ a {
 }
 .cid-sOyEDdmn2L .row {
   justify-content: center;
+}
+.cid-sT0oifplOZ {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: #bbbbbb;
+}
+.cid-sT0oifplOZ .line {
+  background-color: #000000;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
 }
 .cid-sOyEDdUAFX {
   padding-top: 2rem;
